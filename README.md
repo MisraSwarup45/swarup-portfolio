@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1TKDufIg3-TwrBYPWsM8Waa7mibZjUSIi/view?usp=share_link" />
+<img src="src/assets/frontpage.png" />
 
 # Getting Started with Create React App
 
