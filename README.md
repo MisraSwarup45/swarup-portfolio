@@ -1,5 +1,5 @@
 
-<a href="https://misraswarup45.netlify.app/"><img src="src/assets/frontpage.png" /></a>
+<a href="https://misraswarup45.netlify.app/" target="__blank"><img src="src/assets/frontpage.png" /></a>
 
 # Getting Started with Create React App
 
