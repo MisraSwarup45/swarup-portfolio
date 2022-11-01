@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1TKDufIg3-TwrBYPWsM8Waa7mibZjUSIi/view?usp=share_link" alt="swarup-portfolio" />
+![alt text](http://url/to/img.png](https://drive.google.com/file/d/1TKDufIg3-TwrBYPWsM8Waa7mibZjUSIi/view?usp=share_link)
 
 # Getting Started with Create React App
 
