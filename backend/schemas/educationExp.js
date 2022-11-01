@@ -1,6 +1,6 @@
 export default {
-    name: 'workExperience',
-    title: 'Work Experience',
+    name: 'educationExp',
+    title: 'Education Exp',
     type: 'document',
     fields: [
         {
@@ -14,8 +14,8 @@ export default {
             type: 'string'
         },
         {
-            name: 'desc',
-            title: 'Desc',
+            name: 'address',
+            title: 'Address',
             type: 'string'
         }
     ]
